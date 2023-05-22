@@ -1,2 +1,3 @@
-# wirno
+#wirno
 Kuli
+Tukang.gali
